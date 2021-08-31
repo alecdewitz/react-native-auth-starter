@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "name": "John Doe",
+            "username": "john_doe",
+            "image": "https://randomuser.me/api/portraits/men/52.jpg",
+            "coverImage": "https://picsum.photos/800/300",
+            "address": "Minneapolis, MN",
+            "bio": "I'm a graphic designer and I love coffee. Feel free to reach out or connect with me!",
+            "status":"notConnect",
+            "id":"1"
+        },
+        {
+            "name": "Ibraham",
+            "username": "john_doe",
+            "image": "https://randomuser.me/api/portraits/men/52.jpg",
+            "coverImage": "https://picsum.photos/800/300",
+            "address": "Minneapolis, MN",
+            "bio": "I'm a graphic designer and I love coffee. Feel free to reach out or connect with me!",
+            "status":"notConnect",
+            "id":"2"
+        },
+        {
+            "name": "Leila",
+            "username": "john_doe",
+            "image": "https://randomuser.me/api/portraits/men/52.jpg",
+            "coverImage": "https://picsum.photos/800/300",
+            "address": "Minneapolis, MN",
+            "bio": "I'm a graphic designer and I love coffee. Feel free to reach out or connect with me!",
+            "status":"notConnect",
+            "id":"3"
+        },
+        {
+            "name": "Dogers",
+            "username": "john_doe",
+            "image": "https://randomuser.me/api/portraits/men/52.jpg",
+            "coverImage": "https://picsum.photos/800/300",
+            "address": "Minneapolis, MN",
+            "bio": "I'm a graphic designer and I love coffee. Feel free to reach out or connect with me!",
+            "status":"notConnect",
+            "id":"4"
+        },
+        {
+            "name": "Pointer",
+            "username": "john_doe",
+            "image": "https://randomuser.me/api/portraits/men/52.jpg",
+            "coverImage": "https://picsum.photos/800/300",
+            "address": "Minneapolis, MN",
+            "bio": "I'm a graphic designer and I love coffee. Feel free to reach out or connect with me!",
+            "status":"connected",
+            "id":"5"
+        },
+        {
+            "name": "Blue",
+            "username": "john_doe",
+            "image": "https://randomuser.me/api/portraits/men/52.jpg",
+            "coverImage": "https://picsum.photos/800/300",
+            "address": "Minneapolis, MN",
+            "bio": "I'm a graphic designer and I love coffee. Feel free to reach out or connect with me!",
+            "status":"notConnect",
+            "id":"6"
+        },
+        {
+            "name": "Yellow",
+            "username": "john_doe",
+            "image": "https://randomuser.me/api/portraits/men/52.jpg",
+            "coverImage": "https://picsum.photos/800/300",
+            "address": "Minneapolis, MN",
+            "bio": "I'm a graphic designer and I love coffee. Feel free to reach out or connect with me!",
+            "status":"connected",
+            "id":"7"
+        },
+        {
+            "name": "Harmrex",
+            "username": "john_doe",
+            "image": "https://randomuser.me/api/portraits/men/52.jpg",
+            "coverImage": "https://picsum.photos/800/300",
+            "address": "Minneapolis, MN",
+            "bio": "I'm a graphic designer and I love coffee. Feel free to reach out or connect with me!",
+            "status":"notConnect",
+            "id":"8"
+        }
+    ]
+}
